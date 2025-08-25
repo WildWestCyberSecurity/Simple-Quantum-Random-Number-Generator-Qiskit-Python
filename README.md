@@ -45,7 +45,7 @@ hack the planet {4202181324}
 2. Install dependencies:
 
    ```bash
-   pip install qiskit qiskit_ibm_runtime
+   pip install qiskit qiskit-ibm-runtime
    ```
 
 3. Export your IBM Quantum credentials(find these in ibm portal):
